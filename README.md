@@ -24,7 +24,7 @@ Script Polling Autokick, kamu juga bisa mendownload di website resmi autoresbot 
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/autoresbot/script-jpm.git
+   git clone https://github.com/autoresbot/script-polling-kick.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
